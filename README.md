@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **didierganthierperan@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/didier-ganthier-601379138/](https://www.linkedin.com/in/didier-ganthier-601379138/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/didierganthier/](https://www.linkedin.com/in/didierganthier/)
 
 - ⚡ Fun fact **I love to code**
 
