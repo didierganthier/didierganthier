@@ -7,21 +7,21 @@
 
 <p align="left"> <a href="https://twitter.com/didierganthier_" target="blank"><img src="https://img.shields.io/twitter/follow/didierganthier_?logo=twitter&style=for-the-badge" alt="didierganthier_" /></a> </p>
 
-- 🔭 I’m currently working on Spotlight [Spotlight](https://github.com/Vizyone/Spotlight-Flutter)
+- 🔭 I’m currently working on [Spotlight](https://github.com/didierganthier/thespotlighter)
 
-- 🌱 I’m currently learning **ReactJS, NodeJS, Python**
+- 🌱 I’m currently learning **Rust, Typescript, Solidity**
 
-- 👯 I’m looking to collaborate on [MLHaïti](https://github.com/MLHaiti/mlhaiti-server)
+- 👯 I’m looking to collaborate on [Haiti Blockchain Alliance](https://github.com/Haiti-Blockchain-Alliance)
 
 - 🤝 I’m looking for help with [Nearby Places](https://github.com/didierganthier/flutter_nearby_places)
 
-- 💬 Ask me about **Flutter, Java, Javascript**
+- 💬 Ask me about **Flutter, Javascript and Solidity**
 
 - 📫 How to reach me **didierganthierperan@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/didierganthier/](https://www.linkedin.com/in/didierganthier/)
 
-- ⚡ Fun fact **I love to code**
+- ⚡ Fun fact **I love to play and watch 🏀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
