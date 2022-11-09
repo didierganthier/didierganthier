@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/didierganthier_" target="blank"><img src="https://img.shields.io/twitter/follow/didierganthier_?logo=twitter&style=for-the-badge" alt="didierganthier_" /></a> </p>
 
-- 🔭 I’m currently working on [Spotlight](https://github.com/didierganthier/thespotlighter)
+- 🔭 I’m currently working on [Bookstore](https://github.com/didierganthier/bookstore-react)
 
-- 🌱 I’m currently learning **Rust, Typescript, Solidity**
+- 🌱 I’m currently learning **Redux, Typescript, Solidity**
 
 - 👯 I’m looking to collaborate on [Haiti Blockchain Alliance](https://github.com/Haiti-Blockchain-Alliance)
 
@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/didierganthier/](https://www.linkedin.com/in/didierganthier/)
 
-- ⚡ Fun fact **I love to play and watch 🏀**
+- ⚡ Fun fact **I love riddles and philosophy** 💭
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
