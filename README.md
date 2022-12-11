@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on [Haiti Blockchain Alliance](https://github.com/Haiti-Blockchain-Alliance)
 
-- 🤝 I’m looking for help with [Nearby Places](https://github.com/didierganthier/flutter_nearby_places)
+- 🤝 I’m looking for help with [The Spot Events](https://github.com/didierganthier/thespotlighter)
 
 - 💬 Ask me about **Flutter, Javascript and React**
 
