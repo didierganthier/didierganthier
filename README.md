@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/didierganthier_" target="blank"><img src="https://img.shields.io/twitter/follow/didierganthier_?logo=twitter&style=for-the-badge" alt="didierganthier_" /></a> </p>
 
-- 🔭 I’m currently working on [Space Travellers Hub]([https://github.com/didierganthier/bookstore-react](https://github.com/didierganthier/space-travellers-hub))
+- 🔭 I’m currently working on [OpenAI Image Generator](https://github.com/didierganthier/openai-image-generator)
 
-- 🌱 I’m currently learning **Redux, Typescript, Solidity**
+- 🌱 I’m currently learning **Ruby, Typescript, Solidity**
 
 - 👯 I’m looking to collaborate on [Haiti Blockchain Alliance](https://github.com/Haiti-Blockchain-Alliance)
 
 - 🤝 I’m looking for help with [Nearby Places](https://github.com/didierganthier/flutter_nearby_places)
 
-- 💬 Ask me about **Flutter, Javascript and Solidity**
+- 💬 Ask me about **Flutter, Javascript and React**
 
 - 📫 How to reach me **didierganthierperan@gmail.com**
 
