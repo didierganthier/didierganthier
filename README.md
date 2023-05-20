@@ -23,7 +23,7 @@
 
 - ⚡ Fun fact **I love riddles and philosophy** 💭
 
-<a href="https://app.daily.dev/didierganthier"><img src="https://api.daily.dev/devcards/d6b45e5d91264d919c51fe5ba790cbad.png?r=ohn" width="400" alt="Didier Ganthier's Dev Card"/></a>
+<a href="https://app.daily.dev/didierganthier"><img src="https://github.com/didierganthier/didierganthier/blob/main/devcard.svg" width="400" alt="Didier Ganthier's Dev Card"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
