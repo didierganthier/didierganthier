@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Didier Peran Ganthier</h1>
-<h3 align="center">Always deliver more than expected, be good to people and trust God always</h3>
+<h3 align="center">Always deliver more than expected, be good to people, and trust God always</h3>
+
+[![committers.top badge](https://user-badge.committers.top/haiti_private/didierganthier.svg)](https://user-badge.committers.top/haiti_private/didierganthier)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=didierganthier&label=Profile%20views&color=0e75b6&style=flat" alt="didierganthier" /> </p>
 
