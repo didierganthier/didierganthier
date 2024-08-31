@@ -51,6 +51,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=didierganthier&langs_count=8&layout=compact)](https://github.com/didierganthier/github-readme-stats)
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=didierganthier&show_icons=true&locale=en" alt="didierganthier" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=didierganthier&show_icons=true&rank_icon=percentile&locale=en" alt="didierganthier" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=didierganthier&" alt="didierganthier" /></p>
